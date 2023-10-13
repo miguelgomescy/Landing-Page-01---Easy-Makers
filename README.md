@@ -4,53 +4,53 @@
 
 ## 🎯Objetivos da Landing Page: 
 
-•	Apresentar Serviços: Destacar os serviços oferecidos pela agência. 
+-	Apresentar Serviços: Destacar os serviços oferecidos pela agência. 
 
-•	Atrair Empreendedores: Direcionar-se a empreendedores e empresas em busca de soluções de marketing. 
+-	Atrair Empreendedores: Direcionar-se a empreendedores e empresas em busca de soluções de marketing. 
 
-•	Conectar com o Público-Alvo: Estabelecer conexão com empresas de diversas áreas de atuação. 
+-	Conectar com o Público-Alvo: Estabelecer conexão com empresas de diversas áreas de atuação. 
 
-•	Construir Presença Digital: Demonstrar a importância de uma presença forte na internet. 
+-	Construir Presença Digital: Demonstrar a importância de uma presença forte na internet. 
 
-•	Destacar Expertise: Mostrar a especialização da agência em marketing digital. 
+-	Destacar Expertise: Mostrar a especialização da agência em marketing digital. 
 
-•	Exibir Portfólio: Apresentar trabalhos anteriores para construir credibilidade. 
+-	Exibir Portfólio: Apresentar trabalhos anteriores para construir credibilidade. 
 
-•	Facilitar Contato: Oferecer um formulário de contato para as empresas interessadas. 
+-	Facilitar Contato: Oferecer um formulário de contato para as empresas interessadas. 
 
-•	Responder Dúvidas: Abordar dúvidas comuns em relação aos serviços da agência. 
+-	Responder Dúvidas: Abordar dúvidas comuns em relação aos serviços da agência. 
 
-•	Receber Comentários: Permitir que clientes satisfeitos compartilhem seus elogios. 
+-	Receber Comentários: Permitir que clientes satisfeitos compartilhem seus elogios. 
 
-•	Incentivar Ações: Encorajar os visitantes a tomar medidas, seja entrando em contato ou explorando mais. 
+-	Incentivar Ações: Encorajar os visitantes a tomar medidas, seja entrando em contato ou explorando mais. 
 
 
 
 # 🚀Funcionalidades da Página: 
 
-•	Navegação simples e intuitiva. 
+-	Navegação simples e intuitiva. 
 
-•	Seção de serviços com ícones e informações claras. 
+-	Seção de serviços com ícones e informações claras. 
 
-•	Portfólio de trabalhos anteriores com descrições detalhadas. 
+-	Portfólio de trabalhos anteriores com descrições detalhadas. 
 
-•	Formulário de contato para consultas e orçamentos. 
+-	Formulário de contato para consultas e orçamentos. 
 
-•	Seção de dúvidas frequentes para responder perguntas comuns. 
+-	Seção de dúvidas frequentes para responder perguntas comuns. 
 
-•	Seção de comentários que permite aos visitantes compartilharem experiências. 
+-	Seção de comentários que permite aos visitantes compartilharem experiências. 
 
-•	Links para redes sociais para conectar-se e seguir a agência. 
+-	Links para redes sociais para conectar-se e seguir a agência. 
 
 
 
 # 🛠️Tecnologias Utilizadas: 
 
-•	HTML e CSS: Para estruturar e estilizar a página. 
+-	HTML e CSS: Para estruturar e estilizar a página. 
 
-•	GitHub (ou outra plataforma de controle de versão): Para o gerenciamento do código-fonte. 
+-	GitHub (ou outra plataforma de controle de versão): Para o gerenciamento do código-fonte. 
 
-•	Imagens de alta qualidade e ícones para uma experiência visual atraente. 
+-	Imagens de alta qualidade e ícones para uma experiência visual atraente. 
 
 
 
