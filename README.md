@@ -26,7 +26,7 @@
 
 
 
-# 🚀Funcionalidades da Página: 
+## 🚀Funcionalidades da Página: 
 
 -	Navegação simples e intuitiva. 
 
@@ -44,7 +44,7 @@
 
 
 
-# 🛠️Tecnologias Utilizadas: 
+## 🛠️Tecnologias Utilizadas: 
 
 -	HTML e CSS: Para estruturar e estilizar a página. 
 
@@ -55,3 +55,10 @@
 
 
 Essa Landing Page foi desenvolvida com o propósito de ser uma vitrine digital profissional para a Agência de Marketing Digital Easy Maker, destacando seus serviços e proporcionando uma experiência informativa e envolvente para os visitantes
+
+## 👨🏻‍💻Membros Desenvolvedores:
+ JOSE CLAUDILEY DA SILVA
+
+ MATHEUS SOUSA ROCHA
+
+ MIGUEL GOMES DE LIMA COYADO VIEIRA
