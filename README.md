@@ -2,6 +2,7 @@
 
 📌Descrição da Landing Page: Uma Landing Page impressionante que promove os serviços de uma Agência de Marketing Digital chamada "Easy Maker." Com um design atraente, informações claras e um layout intuitivo, a página convida os visitantes a explorar os serviços da agência e entrar em contato. As cores, imagens e elementos visuais são profissionais, transmitindo confiabilidade e qualidade. 
 
+
 ## 🎯Objetivos da Landing Page: 
 
 -	Apresentar Serviços: Destacar os serviços oferecidos pela agência. 
@@ -25,7 +26,6 @@
 -	Incentivar Ações: Encorajar os visitantes a tomar medidas, seja entrando em contato ou explorando mais. 
 
 
-
 ## 🚀Funcionalidades da Página: 
 
 -	Navegação simples e intuitiva. 
@@ -43,7 +43,6 @@
 -	Links para redes sociais para conectar-se e seguir a agência. 
 
 
-
 ## 🛠️Tecnologias Utilizadas: 
 
 -	HTML e CSS: Para estruturar e estilizar a página. 
@@ -52,13 +51,26 @@
 
 -	Imagens de alta qualidade e ícones para uma experiência visual atraente. 
 
-
-
 Essa Landing Page foi desenvolvida com o propósito de ser uma vitrine digital profissional para a Agência de Marketing Digital Easy Maker, destacando seus serviços e proporcionando uma experiência informativa e envolvente para os visitantes
 
+
+## 🔧Modificações realizadas (Atividade 4):
+
+📌Nessa Atividade-4 foram realizadas modificações utilizando Javascript, uma linguagem versátil que desempenha um papel central no desenvolvimento web moderno, proporcionando interatividade, dinamismo e uma experiência mais rica para os usuários. Foram essas as modificações feitas no formulário:
+
+-   Validação dos campos do formulário com estrutura de controle condicional;
+
+-   Alertas de preenchimento incorreto nos campos;
+
+-   Alerta ao clicar no botão "Enviar", com o resumo dos dados enviados pelo usuário
+
+-   Uso de variavéis para receber e recuperar os dados.
+
+
 ## 👨🏻‍💻Membros Desenvolvedores:
- JOSE CLAUDILEY DA SILVA
 
- MATHEUS SOUSA ROCHA
+* JOSE CLAUDILEY DA SILVA
 
- MIGUEL GOMES DE LIMA COYADO VIEIRA
+* MATHEUS SOUSA ROCHA
+
+* MIGUEL GOMES DE LIMA COYADO VIEIRA
